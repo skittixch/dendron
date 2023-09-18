@@ -91,6 +91,7 @@ publishing:
         - root
     writeStubs: false
     siteRootDir: docs
+    siteUrl: {WEBSITE_URL}
     seo:
         title: Dendron
         description: Personal Knowledge Space
