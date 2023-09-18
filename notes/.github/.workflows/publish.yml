@@ -47,6 +47,6 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_branch: pages
-        publish_dir: docs/
+        publish_dir: .next/out
         force_orphan: true
         #cname: example.com
