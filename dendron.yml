@@ -91,7 +91,7 @@ publishing:
         - root
     writeStubs: false
     siteRootDir: docs
-    siteUrl: {WEBSITE_URL}
+    siteUrl: https://{GITHUB_USERNAME}.github.io
     seo:
         title: Dendron
         description: Personal Knowledge Space
